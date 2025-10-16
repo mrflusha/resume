@@ -11,6 +11,7 @@
             line-height: 1.6;
             padding: 20px;
             min-height: 100vh;
+            max-width: 97.5vw;
         }
 
         #resume_head {
@@ -24,7 +25,7 @@
             align-items: center;
             flex-wrap: wrap;
             gap: 20px;
-            min-width: 95vw;
+            min-width: 88vw;
             
 
         }
